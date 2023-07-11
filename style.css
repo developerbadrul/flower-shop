@@ -104,3 +104,35 @@ header {
     margin: 5px auto;
     display: block;
 }
+
+/* Service Style Ends here  */
+
+/* Hot deals starts here  */
+
+.hot-deal-section{
+    background-color: #e5547317;
+}
+
+.hot-deal-content{
+    width: 80%;
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 35px;
+}
+
+.hot-deal-discription span{
+    color: #E55473;
+}
+
+.hot-deal-discription button{
+    background-color: #E55473;
+    padding: 12px 28px;
+    margin: 14px 0px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+}
