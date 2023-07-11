@@ -136,3 +136,18 @@ header {
     color: #fff;
     font-size: 16px;
 }
+
+/* Hot deal ends here  */
+
+/* Insta Section Section Starts Here  */
+
+.insta-section{
+    width: 80%;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.insta-post img{
+    width: 245px;
+    margin: 10px;
+}
