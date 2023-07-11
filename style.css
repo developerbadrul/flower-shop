@@ -51,14 +51,14 @@ header {
 /* Feature Section Starts Here  */
 
 .feature-section{
-    text-align: center;
     display: flex;
     align-items: center;
     gap: 50px;
-    justify-content: space-between;
+    justify-content: space-around;
     width: 80%;
     margin: 35px auto;
-    
+    text-align: center;
+    line-height: 30px;
 }
 .feature-content{
     height: 538px;
@@ -196,6 +196,10 @@ header {
     color: #fff;
     font-size: 16px;
 }
+
+/* Order Section || Bonus Section  Ends Here */
+
+
 /* Newsletter Section Section Starts Here  */
 
 .newsletter-section{
