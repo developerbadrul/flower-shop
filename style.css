@@ -4,6 +4,9 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Lato', sans-serif;
+}
 /******* Header Style starts from here *******/
 
 header {
@@ -147,7 +150,52 @@ header {
 
 /* Insta Section Section Ends Here  */
 
+/* Order Section || Bonus Section  Starts Here */
 
+.order-section{
+    padding: 50px;
+    background-color: rgba(127, 255, 212, 0.507);
+}
+
+.order-content{
+    margin: 32px auto;
+    width: 80%;
+    text-align: center;
+}
+.order-content h2{
+    font-weight: 800;
+    font-size: 30px;
+    color: #fd5c63;
+}
+.input-field{
+    font-size: 16px;
+    font-weight: 800;
+    color: #E55473;
+    border: none;
+    padding: 15px;
+    margin: 10px 10px;
+}
+
+
+.requirment{
+    width: 55%;
+    font-size: 16px;
+    font-weight: 800;
+    color: #E55473;
+    border: none;
+    padding: 15px;
+    margin: 10px 10px;
+}
+
+.order-btn{
+    background-color: #E55473;
+    padding: 12px 28px;
+    margin: 14px 0px;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 16px;
+}
 /* Newsletter Section Section Starts Here  */
 
 .newsletter-section{
