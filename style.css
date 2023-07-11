@@ -48,46 +48,38 @@ header {
 /* Feature Section Starts Here  */
 
 .feature-section{
-    width: 80%;
-    margin: 30px auto;
     text-align: center;
-}
-
-.feature-discription h3{
-    font-size: 2rem;
-}
-
-.display-feature{
     display: flex;
-    align-items: end;
+    align-items: center;
+    gap: 50px;
+    justify-content: space-between;
+    width: 80%;
+    margin: 35px auto;
+    
+}
+.feature-content{
+    height: 538px;
+    width: 464px;
 }
 
-.feature-div{
-    margin: 0 auto;
+.feature-content p{
+    text-decoration: underline;
+    font-weight: 800;
 }
 
-
-.feature-div a{
-    color: black;
+.feature-content img{
+    background: rgba(167, 33, 98, 0.15);
+    border-radius: 300px 300px 0 0;
+    padding: 25px;
 }
 
-.display-feature img{
-    width: 310px;
-    border-radius: 100px 100px 0 0;
-    padding: 10px 0 10px;
+.second{
+    background-color: rgba(5, 151, 160, 0.15) !important;
 }
 
-.feature-img-1{
-    background-color: #E55473;
+.third{
+    background: rgba(71, 125, 17, 0.15) !important;
 }
-.feature-img-2{
-    background-color: #0598a050;
-    margin: 20px;
-}
-.feature-img-3{
-    background-color: #E55473;
-}
-
 /* Feature Section Ends Here  */
 
 /* Service Section Starts Here  */
