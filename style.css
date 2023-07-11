@@ -151,3 +151,39 @@ header {
     width: 245px;
     margin: 10px;
 }
+
+/* Insta Section Section Ends Here  */
+
+
+/* Newsletter Section Section Starts Here  */
+
+.newsletter-section{
+    width: 80%;
+    margin: 30px auto;
+    text-align: center;
+    padding: 80px;
+    background-image: url(assets/images/Rectangle\ 9.png);
+    background-size: cover;
+}
+
+#email-field{
+    width: 700px;
+    height: 45px;
+    padding: 15px;
+    color: #E55473;
+    font-size: 20px;
+    font-weight: 800;
+    border: none;
+}
+
+.newsletter-section form [type=submit] {
+    background-color: #E55473;
+    padding: 12px 28px;
+    margin: 14px 0px;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+/* Newsletter Section Section Ends Here  */
